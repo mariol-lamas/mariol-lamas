@@ -32,8 +32,6 @@ Si te interesa leer más sobre mis pensamientos y experiencias, visita mi blog e
 
 ## 🎯 Mis Habilidades
 
-## 🎯 Mis Habilidades
-
 ### Data Science
 
 - **Lenguajes**: Python, R, SQL
