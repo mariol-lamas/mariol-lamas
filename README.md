@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un desarrollador apasionado por la tecnología y la programación. Aquí encontrarás una colección de mis proyectos personales, ideas y experimentos.
+¡Bienvenido a mi perfil de GitHub! Soy Mario, un desarrollador apasionado por la tecnología y la programación. Aquí encontrarás una colección de mis proyectos personales, ideas y experimentos.
 
 ## 📂 Proyectos
 
