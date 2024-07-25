@@ -14,7 +14,7 @@ En el repositorio [Proyectos](https://github.com/mariol-lamas/proyectos) podrás
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- [LinkedIn](https://www.linkedin.com/in/tu_usuario/)
+- [LinkedIn](https://www.linkedin.com/in/mario-lamas-herrera)
 
 ## 📊 Estadísticas de GitHub
 
