@@ -6,9 +6,9 @@
 
 En el repositorio [Proyectos](https://github.com/mariol-lamas/proyectos) podrás ver una lista de mis proyectos personales. Algunos de los proyectos destacados son:
 
-- **[Nombre del Proyecto 1](https://github.com/tu_usuario/proyectos/nombre_del_proyecto_1)**: Breve descripción del proyecto 1.
-- **[Nombre del Proyecto 2](https://github.com/tu_usuario/proyectos/nombre_del_proyecto_2)**: Breve descripción del proyecto 2.
-- **[Nombre del Proyecto 3](https://github.com/tu_usuario/proyectos/nombre_del_proyecto_3)**: Breve descripción del proyecto 3.
+- **[Social Network Analysis](https://github.com/mariol-lamas/proyectos/tree/main/Data_Science/Social%20Network%20Analysis)**: Sistema de recomendacion basado en base de datos extraida mediante Web Scraping.
+- **[Gorrion](https://github.com/mariol-lamas/proyectos/tree/main/gorrion)**: Software de reconocimiento de Objetos con UI de Tkinter basado en YOLOV8..
+- **[Data Science Project](https://github.com/mariol-lamas/proyectos/tree/main/Data_Science)**: Grupo de proyectos en el ambito de ciencia de datos.
 
 ## 📫 Conéctate conmigo
 
@@ -19,12 +19,6 @@ Puedes encontrarme en las siguientes redes sociales:
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mariol-lamas&show_icons=true&theme=radical)
-
-## 🌟 Repositorios Destacados
-
-Aquí tienes algunos de mis repositorios más populares:
-
-
 
 ## ✍️ Blog y Artículos
 
