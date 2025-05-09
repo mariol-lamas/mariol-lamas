@@ -19,6 +19,7 @@ Estas son algunas de las tecnologías que uso:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
 ## 📂 Proyectos
 
 En el repositorio [Proyectos](https://github.com/mariol-lamas/proyectos) podrás ver una lista de mis proyectos personales. Algunos de los proyectos destacados son:
